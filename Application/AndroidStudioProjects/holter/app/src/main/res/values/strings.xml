@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ECG/BioZ Holter</string>
+    <string name="action_exit">Exit application</string>
+    <string name="button_start_stop">Start</string>
+    <string name="text_info"></string>
+    <string name="text_data"></string>
+    <string name="text_error"></string>
+
+</resources>
